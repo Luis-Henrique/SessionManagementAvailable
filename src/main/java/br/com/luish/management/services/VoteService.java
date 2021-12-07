@@ -69,7 +69,7 @@ public class VoteService {
 		
 	}
 	
-	private Integer createResultSession(List<Vote> votes) {
+	public Integer createResultSession(List<Vote> votes) {
 		
 		int yes = 0;
 		int not = 0;
