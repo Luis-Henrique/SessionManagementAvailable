@@ -12,7 +12,7 @@ git clone https://github.com/Luis-Henrique/SessionManagementAvailable
 
 #Construção(Build)
 Eclipse: selecionar o comando maven clean
-Eclise: selecionar o comando maven build
+Eclipse: selecionar o comando maven build
 
 #Deploy
 https://sessionmanagement.herokuapp.com/
